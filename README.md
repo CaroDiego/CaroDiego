@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Diego Caro Frechilla</h1>
 <h3 align="center">I'm a 19-year-old student in my second year of Multiplatform Application Development (2DAM) at Institut Técnologic de Barcelona (ITB). I'm passionate about software development and movies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carodiego&label=Profile%20views&color=75caff&style=flat" alt="carodiego" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carodiego" alt="carodiego" /></a> </p>
-
 - 🔭 I’m currently working on [Filmio](https://github.com/CaroDiego/Filmio)
 
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **dicafre1404@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
